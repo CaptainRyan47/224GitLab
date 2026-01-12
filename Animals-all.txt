@@ -1,17 +1,19 @@
+GitHub COSC 224 - Jan 2026
+
+Team Members: Alyssa, Ryan, Cohen
+Our Favourite Animals
+
+Reptiles:
 KingCobra_Ryans
-
-Wolf_Alyssas
-
-BlueWhale🐋_Ryans
-
 BallPython_Alyssas
-
-Ferret_Cohens
-
 CarpetPython_Cohens
 
+Mammals:
+Wolf_Alyssas
+BlueWhale🐋_Ryans
+Ferret_Cohens
+
+Birds:
 Crow_Cohens
-
 GyrFalcon_Ryans
-
 BarnOwl_Alyssas
